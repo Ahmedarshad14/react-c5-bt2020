@@ -1,6 +1,6 @@
-import React, {createContext} from 'react'
+import React, {createContext} from 'react';
 
-const CounterContext = createContext(5)
+const CounterContext = createContext(5);
 
 
 

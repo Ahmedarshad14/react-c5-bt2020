@@ -11,21 +11,21 @@ const Child2 = () => {
           dispatch("INCREMENT");
         }}
       >
-        Increment
+        Increment!
       </button>
       <button className="btn-14"
         onClick={() => {
           dispatch("DECREMENT");
         }}
       >
-        Decrement
+        Decrement!
       </button>
       <button className="btn-14"
         onClick={() => {
           dispatch("RESET");
         }}
       >
-        Reset
+        Reset!
       </button>
     </div>
   );
